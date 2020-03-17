@@ -9,7 +9,7 @@ I also had poor documentation on my last project. When I say poor I mean literal
 
 # File Structure
 
-<h5> 1.) Chart</h5> Holds all code for producing the front end from stract. Using Min - Max conversion and ICON images to produce the image. Ran into flicking problems with the purple crosshairs before implementing imaging .  
+<h5> 1.) Chart</h5> Holds all code for producing the front end from scratch. Using Min - Max conversion and ICON images to produce the image. Ran into flicking problems with the purple crosshairs before implementing imaging .  
 
 <h5> 2.) Data </h5>  Started with the Yahoo finance API which was closed in 2017 out of nowhere. Now use alpha advantage. Uses a JSON response which I just parse myself. There are several JSON parsing libs in Java but imo they all suck so I just built a very static / custom one for the time being
 
