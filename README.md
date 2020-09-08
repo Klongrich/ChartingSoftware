@@ -1,4 +1,8 @@
+
 # ChartingSoftware
+
+![alt text](https://www.longrichk.com/static/media/stockSoftWare.ccfd5bda.png)
+
 Attempting to make a fully open source stock trading software. Most code is pulled and edited from a 3 year old project called "JavaStockProject" located on my git.
 
 What happened was back in 2017 Yahoo discontinued their API causing my whole system to break. I had to switch APIs and since then have been able to find newer APIs that work rather well.
